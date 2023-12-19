@@ -13,5 +13,7 @@
 ### finviz
 - [finviz](https://finviz.com/)
 
-## matplotlib
+## data analysis
 - [matplotlib colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
+1. matplotlib
+2. 
