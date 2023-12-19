@@ -1,7 +1,7 @@
 # sk-fly-ai-record
 
 ## python
-- [colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D%20python)
+- [python colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/python)
 1. python 00 : requests, PIL, bytesIO
 2. python 01 : 변수 사용
 3. python 02 : 리스트 
@@ -13,3 +13,5 @@
 ### finviz
 - [finviz](https://finviz.com/)
 
+## matplotlib
+- [matplotlib colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
