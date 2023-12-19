@@ -15,5 +15,5 @@
 
 ## data analysis
 - [matplotlib colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
-1. matplotlib
-2. 
+1. [Day1 _ Numpy-matplotlib.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.ipynb)
+2. [pandas_crawling.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/pandas_crawling.ipynb)
