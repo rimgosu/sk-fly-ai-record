@@ -2,9 +2,9 @@
 
 ## python
 - [python colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/python)
-1. python 00 : requests, PIL, bytesIO
-2. python 01 : 변수 사용
-3. python 02 : 리스트 
+1. [python_00 개요.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/python/%5Bsk_fly_ai%5D_python_00%20%EA%B0%9C%EC%9A%94.ipynb)
+2. [python_01- 변수사용.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/python/%5Bsk_fly_ai%5D_python_01-%20%EB%B3%80%EC%88%98%EC%82%AC%EC%9A%A9.ipynb)
+3. [python_02_리스트.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/python/python_02_%EB%A6%AC%EC%8A%A4%ED%8A%B8.ipynb)
 
 
 ### python 강의자료
