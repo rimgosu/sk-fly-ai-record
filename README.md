@@ -38,3 +38,19 @@
 - [ai archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai)
 
 1. [Day3-ㅡAI 기초.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/Day3-%E3%85%A1AI%20%EA%B8%B0%EC%B4%88.pdf)
+
+
+### dataset link
+공개 데이터셋 구하기
+- 유명한 공개 데이터 저장소
+   - UC 얼바인(Irvine) 머신러닝 저장소 : <http://archive.ics.uci.edu/ml>
+   - 캐글(Kaggle) 데이터셋 : <http://www.kaggle.com/datasets>
+   - 아마존(AWS) 데이터셋 : <https://registry.opendata.aws>
+- 메타 포털(공개 데이터 저장소가 나열)
+   - 데이터 포털 : <http://dataportals.org>
+   - 오픈 데이터 모니터 : <http://opendatamonitor.eu>
+   - 퀀들(Quandl, : <http://quandl.com>)
+- 인기 있는 공개 데이터 저장소가 나열되어 있는 다른 페이지
+   - 위키백과 머신러닝 데이터셋 목록 : <https://goo.gl/SJHN2k>
+   - Quora.com : <https://homl.info/10>
+   - 데이터셋 서브레딧 : <http://www.reddit.com/r/datasets>
