@@ -35,4 +35,6 @@
 
 ## ai
 ### ai(pdf)
-- [ai archive]()
+- [ai archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai)
+
+1. [Day3-ㅡAI 기초.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/Day3-%E3%85%A1AI%20%EA%B8%B0%EC%B4%88.pdf)
