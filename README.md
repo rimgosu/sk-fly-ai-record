@@ -25,6 +25,6 @@
 1. [Day1 _ Numpy-matplotlib.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.ipynb)
 2. [pandas_crawling.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/pandas_crawling.ipynb)
 3. [Day3 _ 워드클라우드.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
-4. [Day3_보라매_맛집_크롤링.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
+4. [Day3_보라매_맛집_크롤링.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3_%EB%B3%B4%EB%9D%BC%EB%A7%A4_%EB%A7%9B%EC%A7%91_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
  
 - 크롤링 사이트 : [https://www.hashscraper.com/](https://www.hashscraper.com/)
