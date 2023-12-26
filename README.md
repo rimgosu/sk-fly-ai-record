@@ -13,10 +13,17 @@
 ### finviz
 - [finviz](https://finviz.com/)
 
-## data analysis
+## data analysis(pdf)
 - [matplotlib colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
-   1. [Day1 _ Numpy-matplotlib.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.ipynb)
-   2. [pandas_crawling.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/pandas_crawling.ipynb)
-   3. [Day3 _ 워드클라우드.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
+
+1. [Day1 _ Numpy-matplotlib.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.pdf)
+2. [1219-pandas-seaborn-folium.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/1219-pandas-seaborn-folium.pdf)
+3. [Day3 _ 워드클라우드.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
+
+
+## data analysis(ipynb)
+1. [Day1 _ Numpy-matplotlib.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.ipynb)
+2. [pandas_crawling.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/pandas_crawling.ipynb)
+3. [Day3 _ 워드클라우드.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
  
 - 크롤링 사이트 : [https://www.hashscraper.com/](https://www.hashscraper.com/)
