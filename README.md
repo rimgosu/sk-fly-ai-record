@@ -12,7 +12,7 @@
 
 - 주식 변동량 추이 : [finviz](https://finviz.com/)
 
-## data analysis(ipynb)
+## data analysis(pdf)
 - [data analysis colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
 
 1. [Day1 _ Numpy-matplotlib.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.pdf)
@@ -21,9 +21,10 @@
 4. [[데이터 분석 - 자연어 처리와 Word Cloud] velog.io@shlee2227goai2305311.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/%5B%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20-%20%EC%9E%90%EC%97%B0%EC%96%B4%20%EC%B2%98%EB%A6%AC%EC%99%80%20Word%20Cloud%5D%20velog.io%40shlee2227goai2305311.pdf)
 
 
-## data analysis(pdf)
+## data analysis(ipynb)
 1. [Day1 _ Numpy-matplotlib.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.ipynb)
 2. [pandas_crawling.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/pandas_crawling.ipynb)
 3. [Day3 _ 워드클라우드.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
+4. [Day3_보라매_맛집_크롤링.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3%20_%20%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C.ipynb)
  
 - 크롤링 사이트 : [https://www.hashscraper.com/](https://www.hashscraper.com/)
