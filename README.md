@@ -14,7 +14,7 @@
 - [finviz](https://finviz.com/)
 
 ## data analysis(pdf)
-- [matplotlib colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
+- [data analysis colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
 
 1. [Day1 _ Numpy-matplotlib.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day1%20_%20Numpy-matplotlib.pdf)
 2. [1219-pandas-seaborn-folium.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/1219-pandas-seaborn-folium.pdf)
