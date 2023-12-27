@@ -63,5 +63,5 @@
    - Flutter 개발 환경 구축: 윈도우와 맥 OS에서 Flutter SDK 설치 및 환경 설정 방법.
    - 안드로이드 스튜디오와 Visual Studio Code를 이용한 Flutter 플러그인 설치 및 설정.
    - Dart 언어 기초: Flutter에서 사용되는 Dart 언어의 특징과 기본 문법 소개.
- 
+   - 트러블 슈팅 : <https://neodreamer-dev.tistory.com/813>
 
