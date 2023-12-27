@@ -55,3 +55,8 @@
    - 위키백과 머신러닝 데이터셋 목록 : <https://goo.gl/SJHN2k>
    - Quora.com : <https://homl.info/10>
    - 데이터셋 서브레딧 : <http://www.reddit.com/r/datasets>
+
+
+## flutter 특강
+### 설치
+- [flutter 설치](https://cafe.naver.com/aiclubcafe/673)
