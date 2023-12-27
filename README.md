@@ -73,4 +73,7 @@
    - 안드로이드 스튜디오와 Visual Studio Code를 이용한 Flutter 플러그인 설치 및 설정.
    - Dart 언어 기초: Flutter에서 사용되는 Dart 언어의 특징과 기본 문법 소개.
    - 트러블 슈팅 : <https://neodreamer-dev.tistory.com/813>
-
+- dart 문법 : <https://cafe.naver.com/aiclubcafe/674>
+   - dart 테스트 : <https://dart.dev/>
+ 
+ 
