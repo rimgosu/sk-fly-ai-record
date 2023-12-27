@@ -1,5 +1,7 @@
 # sk-fly-ai-record
 
+![image](https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/2c3d564a-d6f0-475b-a3a3-cd8816c3ed94)
+
 ## python 기초
 ### python (ipynb)
 - [python colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/python)
@@ -40,6 +42,13 @@
 1. [Day3-ㅡAI 기초.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/Day3-%E3%85%A1AI%20%EA%B8%B0%EC%B4%88.pdf)
 2. [AI Day1.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/AI%20Day1.pdf)
 
+### ipynb
+- [AI_Pro_Day1_KNN_ipynby.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/AI_Pro_Day1_KNN_ipynby.ipynb)
+1. [23_12_27_펭귄데이터_실습.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_%ED%8E%AD%EA%B7%84%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%A4%EC%8A%B5.ipynb)
+2. [23_12_27_유방암_데이터_실습.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_%EC%9C%A0%EB%B0%A9%EC%95%94_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%A4%EC%8A%B5.ipynb)
+3. [23_12_27_air_quality_no2_long.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_air_quality_no2_long.ipynb)
+4. [23_12_27_SVM.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_SVM.ipynb)
+5. [23_12_27_Pima_Indians.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_Pima_Indians.ipynb)
 
 ### dataset link
 공개 데이터셋 구하기
