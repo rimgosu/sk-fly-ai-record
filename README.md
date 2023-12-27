@@ -59,4 +59,4 @@
 
 ## flutter 특강
 ### 설치
-- [flutter 설치](https://cafe.naver.com/aiclubcafe/673)
+- flutter 설치 : <https://cafe.naver.com/aiclubcafe/673>
