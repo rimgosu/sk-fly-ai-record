@@ -77,6 +77,8 @@
    - dart 테스트 : <https://dart.dev/>
    - dartpad : <https://dartpad.dev/?>
 - 위젯 : <https://cafe.naver.com/aiclubcafe/675>
-
+   - Material Design : <https://m3.material.io/> : 안드로이드 디자인 표준 (ui를 다 제공해준다)
+   - 아이폰 : 쿠퍼티노 디자인 : <https://docs.flutter.dev/ui/widgets/cupertino>
+      - 주석이라도 android란 한 글자라도 들어가면 안된다.
  
  
