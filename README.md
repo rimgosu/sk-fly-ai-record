@@ -1,4 +1,4 @@
-# sk-fly-ai-record
+
 
 ![image](https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/2c3d564a-d6f0-475b-a3a3-cd8816c3ed94)
 
