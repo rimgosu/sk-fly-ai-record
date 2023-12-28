@@ -80,8 +80,14 @@
    - 안드로이드 스튜디오와 Visual Studio Code를 이용한 Flutter 플러그인 설치 및 설정.
    - Dart 언어 기초: Flutter에서 사용되는 Dart 언어의 특징과 기본 문법 소개.
    - 트러블 슈팅 : <https://neodreamer-dev.tistory.com/813>
- 
-### 강의 링크
+
+### 강의
+- [플러터특강 - 위젯](https://cafe.naver.com/aiclubcafe/675)
+- [플러터특강 - 이미지](https://cafe.naver.com/aiclubcafe/675)
+- [플러터특강 - 블로그 웹 앱](https://cafe.naver.com/aiclubcafe/675)
+
+
+### 강의 노트
 - [flutter 1@velog](https://velog.io/@rimgosu/flutter-1)
 - [flutter 2@velog](https://velog.io/@rimgosu/flutter-2)
 
@@ -96,5 +102,5 @@
 
 - **피그마 머터리얼 디자인 플러그인** (피그마-flutter 디자인 효과적으로 할 수 있다.) :  <https://yetis.tistory.com/108>
     - Font Scanner 활용 : <https://yozm.wishket.com/magazine/detail/2212/>
-    - **제플린 플러터 디자인 내보내기** : <https://tangunsoft.tistory.com/entry/%EC%A0%9C%ED%94%8C%EB%A6%B0Zeplin%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0>
+    - 제플린 플러터 디자인 내보내기 : [https://tangunsoft.tistory.com/entry/](https://tangunsoft.tistory.com/entry/%EC%A0%9C%ED%94%8C%EB%A6%B0Zeplin%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
 
