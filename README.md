@@ -1,8 +1,9 @@
-
-
 ![image](https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/2c3d564a-d6f0-475b-a3a3-cd8816c3ed94)
 
 ## python 기초
+<img width="908" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/bc9cda80-59d3-4bd9-8dd0-f5f985fcda12">
+
+
 ### python (ipynb)
 - [python colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/python)
 
@@ -17,6 +18,9 @@
 - 주식 변동량 추이 : [finviz](https://finviz.com/)
 
 ## data analysis
+<img width="848" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/df4abce5-3651-44c2-8f51-a18a98f7e290">
+
+
 ### data analysis(pdf)
 - [data analysis colab archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/data%20analysis)
 
@@ -35,7 +39,10 @@
 - 크롤링 사이트 : [https://www.hashscraper.com/](https://www.hashscraper.com/)
 
 
-## ai (23-12-27)
+## ai
+<img width="510" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/e9cb053c-a711-4565-820f-7a4358f45f83">
+
+
 ### ai(pdf)
 - [ai archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai)
    - [AI Day1.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/AI%20Day1.pdf)
@@ -63,6 +70,9 @@
 
 
 ## flutter 특강
+<img width="777" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/fd8c1979-935a-41e5-9347-66448ab46e1e">
+
+
 ### 설치
 - flutter 설치 : <https://cafe.naver.com/aiclubcafe/673>
    - Flutter 개발 환경 구축: 윈도우와 맥 OS에서 Flutter SDK 설치 및 환경 설정 방법.
