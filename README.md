@@ -35,7 +35,7 @@
 - 크롤링 사이트 : [https://www.hashscraper.com/](https://www.hashscraper.com/)
 
 
-## ai
+## ai (23-12-27)
 ### ai(pdf)
 - [ai archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai)
 
@@ -49,6 +49,14 @@
 3. [23_12_27_air_quality_no2_long.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_air_quality_no2_long.ipynb)
 4. [23_12_27_SVM.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_SVM.ipynb)
 5. [23_12_27_Pima_Indians.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_Pima_Indians.ipynb)
+
+
+## ai (23-12-28)
+### pdf
+### ipynb
+### Cats-vs-Dogs
+- <https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset?resource=download>
+
 
 ### dataset link
 공개 데이터셋 구하기
