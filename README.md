@@ -40,7 +40,8 @@
 
 
 ## ai
-<img width="510" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/e9cb053c-a711-4565-820f-7a4358f45f83">
+<img width="927" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/70c19d04-5460-4d10-bc54-8f6e5b0089cf">
+
 
 
 ### ai(pdf)
