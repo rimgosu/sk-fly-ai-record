@@ -38,25 +38,13 @@
 ## ai (23-12-27)
 ### ai(pdf)
 - [ai archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai)
+   - [AI Day1.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/AI%20Day1.pdf)
+   - [Day3-ㅡAI 기초.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Day3-%E3%85%A1AI%20%EA%B8%B0%EC%B4%88.pdf)
+   - [Day5 CNN.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/Day5%20CNN.pdf)
 
-1. [Day3-ㅡAI 기초.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/Day3-%E3%85%A1AI%20%EA%B8%B0%EC%B4%88.pdf)
-2. [AI Day1.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/AI%20Day1.pdf)
-
-### ipynb
-- [AI_Pro_Day1_KNN_ipynby.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/AI_Pro_Day1_KNN_ipynby.ipynb)
-1. [23_12_27_펭귄데이터_실습.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_%ED%8E%AD%EA%B7%84%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%A4%EC%8A%B5.ipynb)
-2. [23_12_27_유방암_데이터_실습.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_%EC%9C%A0%EB%B0%A9%EC%95%94_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%8B%A4%EC%8A%B5.ipynb)
-3. [23_12_27_air_quality_no2_long.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_air_quality_no2_long.ipynb)
-4. [23_12_27_SVM.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_SVM.ipynb)
-5. [23_12_27_Pima_Indians.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/ai/23_12_27_Pima_Indians.ipynb)
-
-
-## ai (23-12-28)
-### pdf
-### ipynb
-### Cats-vs-Dogs
-- <https://www.kaggle.com/datasets/shaunthesheep/microsoft-catsvsdogs-dataset?resource=download>
-
+### 실습(ipynb)
+- [12/27 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-27%20%EC%8B%A4%EC%8A%B5)
+- [12/28 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-28%20%EC%8B%A4%EC%8A%B5)
 
 ### dataset link
 공개 데이터셋 구하기
