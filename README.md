@@ -91,7 +91,7 @@
 - [flutter 1@velog](https://velog.io/@rimgosu/flutter-1)
 - [flutter 2@velog](https://velog.io/@rimgosu/flutter-2)
 
-### 강의
+### 참고
 - dart 문법 : <https://cafe.naver.com/aiclubcafe/674>
    - dart 테스트 : <https://dart.dev/>
    - dartpad : <https://dartpad.dev/?>
@@ -104,3 +104,4 @@
     - Font Scanner 활용 : <https://yozm.wishket.com/magazine/detail/2212/>
     - 제플린 플러터 디자인 내보내기 : [https://tangunsoft.tistory.com/entry/](https://tangunsoft.tistory.com/entry/%EC%A0%9C%ED%94%8C%EB%A6%B0Zeplin%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
 
+- **flutter 라이브러리 체크** (maven repository 같은 곳) : <https://pub.dev/>
