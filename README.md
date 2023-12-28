@@ -93,5 +93,8 @@
    - Material Design : <https://m3.material.io/> : 안드로이드 디자인 표준 (ui를 다 제공해준다)
    - 아이폰 : 쿠퍼티노 디자인 : <https://docs.flutter.dev/ui/widgets/cupertino>
       - 주석이라도 android란 한 글자라도 들어가면 안된다.
- 
- 
+
+- **피그마 머터리얼 디자인 플러그인** (피그마-flutter 디자인 효과적으로 할 수 있다.) :  <https://yetis.tistory.com/108>
+    - Font Scanner 활용 : <https://yozm.wishket.com/magazine/detail/2212/>
+    - **제플린 플러터 디자인 내보내기** : <https://tangunsoft.tistory.com/entry/%EC%A0%9C%ED%94%8C%EB%A6%B0Zeplin%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0>
+
