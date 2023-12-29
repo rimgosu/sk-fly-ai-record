@@ -81,6 +81,8 @@
    - 트러블 슈팅 : <https://neodreamer-dev.tistory.com/813>
 
 ### 강의
+- [플러터특강 - 개발환경 구축하기](https://cafe.naver.com/aiclubcafe/675)
+- [플러터특강 - Dart 문법](https://cafe.naver.com/aiclubcafe/675)
 - [플러터특강 - 위젯](https://cafe.naver.com/aiclubcafe/675)
 - [플러터특강 - 이미지](https://cafe.naver.com/aiclubcafe/675)
 - [플러터특강 - 블로그 웹 앱](https://cafe.naver.com/aiclubcafe/675)
