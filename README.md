@@ -1,7 +1,7 @@
 ![image](https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/2c3d564a-d6f0-475b-a3a3-cd8816c3ed94)
 
 ## python 기초
-<img width="908" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/bc9cda80-59d3-4bd9-8dd0-f5f985fcda12">
+<img width="784" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/b609ce26-e754-46df-ba41-61885aa6de35">
 
 
 ### python (ipynb)
@@ -18,7 +18,7 @@
 - 주식 변동량 추이 : [finviz](https://finviz.com/)
 
 ## data analysis
-<img width="848" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/df4abce5-3651-44c2-8f51-a18a98f7e290">
+<img width="783" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/3adaa7af-eb66-4326-b179-fe32a93e600a">
 
 
 ### data analysis(pdf)
@@ -40,8 +40,7 @@
 
 
 ## ai
-<img width="927" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/70c19d04-5460-4d10-bc54-8f6e5b0089cf">
-
+<img width="778" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/553e7af6-d4bf-4c14-8c66-af63de20049f">
 
 
 ### ai(pdf)
@@ -71,7 +70,7 @@
 
 
 ## flutter 특강
-<img width="777" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/fd8c1979-935a-41e5-9347-66448ab46e1e">
+<img width="778" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/539f67ed-6a6e-4e52-8416-8a42bf5b644e">
 
 
 ### 설치
