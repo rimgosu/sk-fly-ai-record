@@ -52,6 +52,7 @@
 ### 실습(ipynb)
 - [12/27 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-27%20%EC%8B%A4%EC%8A%B5)
 - [12/28 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-28%20%EC%8B%A4%EC%8A%B5)
+- [12/29 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-29%20%EC%8B%A4%EC%8A%B5)
 
 ### dataset link
 공개 데이터셋 구하기
