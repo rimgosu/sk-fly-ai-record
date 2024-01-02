@@ -102,6 +102,8 @@
 - 시계열 데이터 예측-2 : <https://github.com/thuml/Time-Series-Library/tree/main>
 - 시계열 데이터 예측-3 : <https://dacon.io/competitions/official/236200/codeshare/9548?page=1&dtype=recent>
 
+### dacon
+- 법원 판결 예측 : <https://dacon.io/competitions/official/236112/data>
 
 
 
