@@ -17,6 +17,21 @@
 
 - 주식 변동량 추이 : [finviz](https://finviz.com/)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## data analysis
 <img width="783" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/3adaa7af-eb66-4326-b179-fe32a93e600a">
 
@@ -37,6 +52,18 @@
 4. [Day3_보라매_맛집_크롤링.ipynb](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/data%20analysis/Day3_%EB%B3%B4%EB%9D%BC%EB%A7%A4_%EB%A7%9B%EC%A7%91_%ED%81%AC%EB%A1%A4%EB%A7%81.ipynb)
  
 - 크롤링 사이트 : [https://www.hashscraper.com/](https://www.hashscraper.com/)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## ai
@@ -68,7 +95,26 @@
    - 위키백과 머신러닝 데이터셋 목록 : <https://goo.gl/SJHN2k>
    - Quora.com : <https://homl.info/10>
    - 데이터셋 서브레딧 : <http://www.reddit.com/r/datasets>
+ 
+### tensorflow
 - 시계열 데이터 예측 : <https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## flutter 특강
