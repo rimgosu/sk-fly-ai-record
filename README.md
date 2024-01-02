@@ -98,6 +98,7 @@
  
 ### tensorflow
 - 시계열 데이터 예측 : <https://www.tensorflow.org/tutorials/structured_data/time_series?hl=ko>
+- 시계열 데이터 예측-2 : <https://github.com/thuml/Time-Series-Library/tree/main>
 
 
 
