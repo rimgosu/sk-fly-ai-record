@@ -106,6 +106,7 @@
 - 법원 판결 예측 : <https://dacon.io/competitions/official/236112/data>
 - 합성데이터 기반 객체 탐지 : <https://dacon.io/competitions/official/236107/data>
 - 서울시 평균 온도 예측 : <https://dacon.io/competitions/official/236200/overview/description>
+- HD현대 AI Challenge : <https://dacon.io/competitions/official/236158/data>
 
 
 
