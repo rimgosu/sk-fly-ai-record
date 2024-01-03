@@ -81,6 +81,7 @@
 - [12/28 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-28%20%EC%8B%A4%EC%8A%B5)
 - [12/29 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/23-12-29%20%EC%8B%A4%EC%8A%B5)
 - [01/02 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/24-01-02%20%EC%8B%A4%EC%8A%B5)
+- [01/03 실습 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/ai/24-01-03%20%EC%8B%A4%EC%8A%B5)
 
 ### dataset link
 공개 데이터셋 구하기
@@ -107,7 +108,7 @@
 - 합성데이터 기반 객체 탐지 : <https://dacon.io/competitions/official/236107/data>
 - 서울시 평균 온도 예측 : <https://dacon.io/competitions/official/236200/overview/description>
 - HD현대 AI Challenge : <https://dacon.io/competitions/official/236158/data>
-
+- 대구 교통사고 피해 예측 ai 경진대회 : <https://dacon.io/competitions/official/236193/data>
 
 
 
