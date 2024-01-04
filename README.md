@@ -176,10 +176,6 @@
 ### DevOps 강의 정리
 - DevOps 1 (git, hyper-v) : <https://velog.io/@rimgosu/DevOps>
 
-### 우분투 20.04 LTS 다운로드
-- <https://releases.ubuntu.com/20.04.6/?_ga=2.182108910.856914910.1704326925-1639297563.1704326925>
-
-
 
 
 
