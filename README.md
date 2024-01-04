@@ -165,3 +165,27 @@
     - 제플린 플러터 디자인 내보내기 : [https://tangunsoft.tistory.com/entry/](https://tangunsoft.tistory.com/entry/%EC%A0%9C%ED%94%8C%EB%A6%B0Zeplin%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B3%A0-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%82%B4%EB%B3%B4%EB%82%B4%EA%B8%B0)
 
 - **flutter 라이브러리 체크** (maven repository 같은 곳) : <https://pub.dev/>
+
+
+
+
+## DevOps
+
+<img width="785" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/a3dadc02-3bfd-4359-bef4-e9867164407e">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
