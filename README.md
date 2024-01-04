@@ -173,6 +173,9 @@
 
 <img width="785" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/a3dadc02-3bfd-4359-bef4-e9867164407e">
 
+### 우분투 20.04 LTS 다운로드
+- <https://releases.ubuntu.com/20.04.6/?_ga=2.182108910.856914910.1704326925-1639297563.1704326925>
+
 
 
 
