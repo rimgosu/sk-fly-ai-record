@@ -179,7 +179,8 @@
 
 ### 강의 자료 
 - [강의 자료 archive](https://github.com/rimgosu/Obsidian-Vault/tree/master/%5Bsk-fly-ai%5D/devops/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C)
-- TODO : [GitHub Actions 실습 - 배포.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/devops/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/GitHub%20Actions%20%EC%8B%A4%EC%8A%B5%20-%20%EB%B0%B0%ED%8F%AC.pdf)
+- TODO : [GitHub Actions 실습 - 배포.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/devops/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/GitHub%20Actions%20%EC%8B%A4%EC%8A%B5%20-%20%EB%B0%B0%ED%8F%AC.pdf) ✍️
+- TODO : [GitHub Actions 실습 - Azure 포탈에서 Webapp 배포.pdf](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/devops/%EA%B0%95%EC%9D%98%EC%9E%90%EB%A3%8C/GitHub%20Actions%20%EC%8B%A4%EC%8A%B5%20-%20Azure%20%ED%8F%AC%ED%83%88%EC%97%90%EC%84%9C%20Webapp%20%EB%B0%B0%ED%8F%AC.pdf) ✍️
 
 
 
