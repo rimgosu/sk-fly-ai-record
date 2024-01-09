@@ -188,7 +188,10 @@
 
 
 
+## 강화학습
+<img width="857" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/c20e9359-0efc-42cc-9571-2c9c55213d18">
 
+- 강의자료 : <https://nongaussian.github.io/class-2024-skt-fly-ai/>
 
 
 
