@@ -216,5 +216,5 @@
 <img width="853" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/a48e627f-eaba-41ee-b02f-08b208cffaee">
 
 ### 강의 노트 정리
-- day1 : <https://velog.io/@rimgosu/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88#docker-ubuntu-%EC%84%A4%EC%B9%98-%EF%B8%8F>
+- day1 : [azure, container](https://velog.io/@rimgosu/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88#docker-ubuntu-%EC%84%A4%EC%B9%98-%EF%B8%8F)
 
