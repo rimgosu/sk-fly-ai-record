@@ -196,7 +196,25 @@
 
 
 
+## fastapi
+
+<img width="853" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/36f553b9-9cfd-4463-8d00-ae10d1210b86">
+
+- fastapi study archive : <https://github.com/rimgosu/FastApiStudy>
+
+### 강의 자료
+- [FastAPI특강 - 01.개발환경 및 시작](https://cafe.naver.com/aiclubcafe/682)
+- [FastAPI특강 - 02.Query Parameters](https://cafe.naver.com/aiclubcafe/687)
+- [FastAPI특강 - 03.Form Data / Request Files](https://cafe.naver.com/aiclubcafe/686)
+- [FastAPI특강 - 05.도커 설치](https://cafe.naver.com/aiclubcafe/694)
+- [FastAPI특강 - 06.도커에 MySQL 사용](https://cafe.naver.com/aiclubcafe/695)
+- [FastAPI특강 - 07.데이터베이스(MySQL) 연동](https://cafe.naver.com/aiclubcafe/696)
 
 
+## azure, docker
 
+<img width="853" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/a48e627f-eaba-41ee-b02f-08b208cffaee">
+
+### 강의 노트 정리
+- day1 : <https://velog.io/@rimgosu/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88#docker-ubuntu-%EC%84%A4%EC%B9%98-%EF%B8%8F>
 
