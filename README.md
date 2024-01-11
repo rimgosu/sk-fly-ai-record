@@ -219,5 +219,5 @@
 ### 강의 노트 정리
 - day1 : [azure, container](https://velog.io/@rimgosu/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88#docker-ubuntu-%EC%84%A4%EC%B9%98-%EF%B8%8F)
 
-### ipybn
+### ipynb
 - [azure_computer_vision_cat_vs_dog](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/azure%20container/azure_computer_vision_cat_vs_dog.ipynb)
