@@ -1,3 +1,4 @@
+
 ![image](https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/2c3d564a-d6f0-475b-a3a3-cd8816c3ed94)
 
 ## python 기초
@@ -218,3 +219,5 @@
 ### 강의 노트 정리
 - day1 : [azure, container](https://velog.io/@rimgosu/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88#docker-ubuntu-%EC%84%A4%EC%B9%98-%EF%B8%8F)
 
+### ipybn
+- [azure_computer_vision_cat_vs_dog](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/azure%20container/azure_computer_vision_cat_vs_dog.ipynb)
