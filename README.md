@@ -212,12 +212,26 @@
 - [FastAPI특강 - 07.데이터베이스(MySQL) 연동](https://cafe.naver.com/aiclubcafe/696)
 
 
-## azure, docker
+## docker, kubernetes
 
-<img width="853" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/a48e627f-eaba-41ee-b02f-08b208cffaee">
+<img width="854" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/b1adc279-4816-4534-aa76-4d5da8dba752">
+
 
 ### 강의 노트 정리
 - day1 : [azure, container](https://velog.io/@rimgosu/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88#docker-ubuntu-%EC%84%A4%EC%B9%98-%EF%B8%8F)
+- day2 : [kubernetes](https://velog.io/@rimgosu/kubernetes)
+- day2 : [azure machine learning studio](https://velog.io/@rimgosu/azure-machine-learning-studio)
 
 ### ipynb
 - [azure_computer_vision_cat_vs_dog](https://github.com/rimgosu/Obsidian-Vault/blob/master/%5Bsk-fly-ai%5D/azure%20container/azure_computer_vision_cat_vs_dog.ipynb)
+
+
+
+## azure
+
+<img width="858" alt="image" src="https://github.com/rimgosu/sk-fly-ai-record/assets/120752098/32bc5c03-d81d-46a8-908c-fd4870337348">
+
+### 강의 노트 정리
+- day1 : [azure cloud](https://velog.io/@rimgosu/cloud)
+- 
+
