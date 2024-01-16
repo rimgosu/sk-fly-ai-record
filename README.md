@@ -233,5 +233,5 @@
 
 ### 강의 노트 정리
 - day1 : [azure cloud](https://velog.io/@rimgosu/cloud)
-- 
+- day2 : [azure cloud 2](https://velog.io/@rimgosu/azure-cloud-2)
 
